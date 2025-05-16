@@ -2,3 +2,5 @@ data
 lightning_logs
 checkpoints
 _build
+tb_logs
+*.out
